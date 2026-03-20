@@ -1,6 +1,6 @@
 # DoubanInfo 豆影 API 接口
 
-![DoubanInfo Logo](https://doubaninfo.com/favicon.svg)
+<img src="https://doubaninfo.com/favicon.svg" alt="DoubanInfo Logo" width="120" />
 
 **DoubanInfo API** 是一款专业的豆瓣/IMDb电影结构化元数据抓取及排版服务。不仅支持极速获取高精度的影视结构数据（标准 JSON 格式），还独家内置了面向主流 PT 站点的 **无缝 BBCode 图文排版输出功能**。免去开发者二次爬虫洗数据排版的烦恼，为您打造私人及公共影音中枢的黄金搭档。
 
